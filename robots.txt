@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luizalmiro.github.io/LandingPage-Gis/sitemap.xml
